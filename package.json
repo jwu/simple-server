@@ -1,0 +1,11 @@
+{
+    "name": "simple-server",
+    "version": "0.1.0",
+    "description": "Simple Web Server",
+    "homepage": "http://jwu.github.io",
+    "license": "MIT",
+    "licenseUrl": "http://opensource.org/licenses/MIT",
+    "dependencies": {
+        "connect": ""
+    }
+}
